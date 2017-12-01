@@ -1,0 +1,1189 @@
+Processing file "/home/vale/Scrivania/audio/INOLTRO/inoltro_telegram/registrazione_vocale/registrato_da_app_pc_e_inoltrato_su_android/4_6003693178283098206.ogg"...
+
+New logical stream (#1, serial: 53cf5ae6): type opus
+Encoded with Lavf57.56.101
+User comments section follows...
+	encoder=Lavf57.56.101
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 48000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1000.0ms (max),  896.7ms (avg),  380.0ms (min)
+	Total data length: 44151 bytes (overhead: 1.32%)
+	Playback length: 0m:05.359s
+	Average bitrate: 65.9 kb/s, w/o overhead: 65.03 kb/s
+Logical stream 1 ended
+Processing file "/home/vale/Scrivania/audio/INOLTRO/inoltro_telegram/registrazione_vocale/registrato_da_wp_e_inoltrato_su_android/4_6006105858981756937.ogg"...
+
+New logical stream (#1, serial: 4336bebe): type opus
+Encoded with libopus unknown-fixed
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 9590 bytes (overhead: 26.9%)
+	Playback length: 0m:03.667s
+	Average bitrate: 20.92 kb/s, w/o overhead: 15.3 kb/s
+Logical stream 1 ended
+WARNING: illegally placed page(s) for logical stream 1
+This indicates a corrupt Ogg file: Page found for stream after EOS flag.
+Processing file "/home/vale/Scrivania/audio/INOLTRO/inoltro_telegram/registrazione_vocale/registrato_su_android_E_inoltrato_su_wp/audio_2017-04-09_19-01-57.ogg"...
+
+New logical stream (#1, serial: 4336bebe): type opus
+Encoded with libopus unknown-fixed
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 9590 bytes (overhead: 26.9%)
+	Playback length: 0m:03.667s
+	Average bitrate: 20.92 kb/s, w/o overhead: 15.3 kb/s
+Logical stream 1 ended
+WARNING: illegally placed page(s) for logical stream 1
+This indicates a corrupt Ogg file: Page found for stream after EOS flag.
+Processing file "/home/vale/Scrivania/audio/INOLTRO/inoltro_whatsapp/Canzone/Nuova_cartella/AUD-20170409-WA0002.waptt"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1920.0ms (max), 1776.0ms (avg), 1420.0ms (min)
+	Total data length: 20488 bytes (overhead: 3.31%)
+	Playback length: 0m:08.877s
+	Average bitrate: 18.46 kb/s, w/o overhead: 17.85 kb/s
+Processing file "/home/vale/Scrivania/audio/INOLTRO/inoltro_whatsapp/Canzone/Nuova_cartella/Nuova_cartella/AUD-20170409-WA0001.waptt"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1920.0ms (max), 1776.0ms (avg), 1420.0ms (min)
+	Total data length: 20488 bytes (overhead: 3.31%)
+	Playback length: 0m:08.877s
+	Average bitrate: 18.46 kb/s, w/o overhead: 17.85 kb/s
+Processing file "/home/vale/Scrivania/audio/INOLTRO/inoltro_whatsapp/registrazione_vocale/registrato_da_wp_ricevuto_e_inoltrato_da_android/AUD-20170409-WA0004.waptt"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   2020.0ms (max), 1573.3ms (avg),  800.0ms (min)
+	Total data length: 10319 bytes (overhead: 4.03%)
+	Playback length: 0m:04.717s
+	Average bitrate: 17.5 kb/s, w/o overhead: 16.79 kb/s
+Processing file "/home/vale/Scrivania/audio/INOLTRO/inoltro_whatsapp/registrazione_vocale/registro_su_wb_invio_ad_android_e_inoltro_a_wp/AUD-20170409-WA0005.waptt"...
+
+New logical stream (#1, serial: 26fc5a07): type opus
+Encoded with Recorder
+Opus stream 1:
+	Pre-skip: 3840
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 48000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   3400.0ms (max), 2850.0ms (avg), 2300.0ms (min)
+	Total data length: 11130 bytes (overhead: 3.94%)
+	Playback length: 0m:05.619s
+	Average bitrate: 15.84 kb/s, w/o overhead: 15.22 kb/s
+Logical stream 1 ended
+Processing file "/home/vale/Scrivania/audio/INOLTRO/inoltro_whatsapp/registrazione_vocale/registrato_da_android_ricevuto_e_inoltrato_da_wp/AUD-20170409-WA0001.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   2080.0ms (max), 1753.3ms (avg), 1400.0ms (min)
+	Total data length: 11799 bytes (overhead: 3.75%)
+	Playback length: 0m:05.257s
+	Average bitrate: 17.95 kb/s, w/o overhead: 17.28 kb/s
+Error opening input file "/home/vale/Scrivania/audio/Invio_su_Whatsapp_da_web_Chrome/WhatsApp": No such file or directory
+Error opening input file "Ptt": No such file or directory
+Error opening input file "2017-04-01": No such file or directory
+Error opening input file "at": No such file or directory
+Error opening input file "18.57.00.ogg": No such file or directory
+Processing file "/home/vale/Scrivania/audio/Invio_su_Telegram_da_android/audio_2017-04-02_22-02-40.ogg"...
+
+New logical stream (#1, serial: 333d121d): type opus
+Encoded with libopus unknown-fixed
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 8502 bytes (overhead: 28.3%)
+	Playback length: 0m:03.331s
+	Average bitrate: 20.41 kb/s, w/o overhead: 14.63 kb/s
+Logical stream 1 ended
+Processing file "/home/vale/Scrivania/audio/Invio_su_Whatsapp_da_WP/PTT-20170401-WA0002.opus.waptt"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   2100.0ms (max), 1430.0ms (avg),   60.0ms (min)
+	Total data length: 12975 bytes (overhead: 3.8%)
+	Playback length: 0m:05.717s
+	Average bitrate: 18.15 kb/s, w/o overhead: 17.46 kb/s
+Processing file "/home/vale/Scrivania/audio/Invio_su_Telegram_da_app_desktop/audio_2017-03-17_16-26-20.ogg"...
+
+New logical stream (#1, serial: 7197de95): type opus
+Encoded with libopus unknown-fixed
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 24133 bytes (overhead: 22.4%)
+	Playback length: 0m:09.751s
+	Average bitrate: 19.8 kb/s, w/o overhead: 15.36 kb/s
+Logical stream 1 ended
+Processing file "/home/vale/Scrivania/audio/WIFI_O_4G/WIFI_4G_DA_ANDROID_INVIO/PTT-20170409-WA0000.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1860.0ms (max), 1506.7ms (avg),  860.0ms (min)
+	Total data length: 10575 bytes (overhead: 3.84%)
+	Playback length: 0m:04.517s
+	Average bitrate: 18.73 kb/s, w/o overhead: 18.01 kb/s
+Processing file "/home/vale/Scrivania/audio/WIFI_O_4G/WIFI_4G_DA_ANDROID_INVIO/PTT-20170409-WA0001.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1880.0ms (max), 1365.0ms (avg),   20.0ms (min)
+	Total data length: 12875 bytes (overhead: 3.73%)
+	Playback length: 0m:05.457s
+	Average bitrate: 18.87 kb/s, w/o overhead: 18.17 kb/s
+Processing file "/home/vale/Scrivania/audio/WIFI_O_4G/WIFI_4G_DA_ANDROID_INOLTRO/AUD-20170409-WA0001.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1860.0ms (max), 1506.7ms (avg),  860.0ms (min)
+	Total data length: 10575 bytes (overhead: 3.84%)
+	Playback length: 0m:04.517s
+	Average bitrate: 18.73 kb/s, w/o overhead: 18.01 kb/s
+Processing file "/home/vale/Scrivania/audio/WIFI_O_4G/WIFI_4G_DA_ANDROID_INOLTRO/AUD-20170409-WA0002.waptt"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1880.0ms (max), 1365.0ms (avg),   20.0ms (min)
+	Total data length: 12875 bytes (overhead: 3.73%)
+	Playback length: 0m:05.457s
+	Average bitrate: 18.87 kb/s, w/o overhead: 18.17 kb/s
+Processing file "/home/vale/Scrivania/audio/Invio_su_Whatsapp_da_android/PTT-20170401-WA0013.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1840.0ms (max), 1506.7ms (avg),  880.0ms (min)
+	Total data length: 10685 bytes (overhead: 3.8%)
+	Playback length: 0m:04.517s
+	Average bitrate: 18.92 kb/s, w/o overhead: 18.2 kb/s
+Processing file "/home/vale/Scrivania/audio/Invio_su_Whatsapp_da_android/Nuova_cartella/PTT-20170317-WA0001.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   2020.0ms (max), 1393.3ms (avg),  300.0ms (min)
+	Total data length: 9316 bytes (overhead: 4.18%)
+	Playback length: 0m:04.177s
+	Average bitrate: 17.84 kb/s, w/o overhead: 17.09 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/2G/Whatsapp/Audio/30_secondi/Inviato_da_Android/PTT-20170504-WA0018.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1860.0ms (max), 1698.9ms (avg),  540.0ms (min)
+	Total data length: 73489 bytes (overhead: 2.88%)
+	Playback length: 0m:30.577s
+	Average bitrate: 19.23 kb/s, w/o overhead: 18.67 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/2G/Whatsapp/Audio/5_secondi/Inviato_da_Android/PTT-20170504-WA0019.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1840.0ms (max), 1380.0ms (avg),  140.0ms (min)
+	Total data length: 13117 bytes (overhead: 3.68%)
+	Playback length: 0m:05.517s
+	Average bitrate: 19.02 kb/s, w/o overhead: 18.32 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/2G/Whatsapp/Audio/1_minuto/Inviato_da_Android/PTT-20170504-WA0017.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1920.0ms (max), 1732.0ms (avg),  480.0ms (min)
+	Total data length: 145399 bytes (overhead: 2.8%)
+	Playback length: 1m:00.617s
+	Average bitrate: 19.19 kb/s, w/o overhead: 18.65 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/2G/Whatsapp/Audio_Silenzioso/30_secondi/Inviato_Da_Android/PTT-20170504-WA0016.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   2280.0ms (max), 2028.0ms (avg),  360.0ms (min)
+	Total data length: 60391 bytes (overhead: 3.35%)
+	Playback length: 0m:30.417s
+	Average bitrate: 15.88 kb/s, w/o overhead: 15.35 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/2G/Whatsapp/Audio_Silenzioso/5_secondi/Inviato_da_Android/PTT-20170504-WA0014.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   2200.0ms (max), 1866.7ms (avg), 1380.0ms (min)
+	Total data length: 11539 bytes (overhead: 3.99%)
+	Playback length: 0m:05.597s
+	Average bitrate: 16.49 kb/s, w/o overhead: 15.83 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/2G/Whatsapp/Audio_Silenzioso/1_minuto/Inviato_da_Android/PTT-20170504-WA0015.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   2260.0ms (max), 2153.6ms (avg), 1700.0ms (min)
+	Total data length: 118314 bytes (overhead: 3.27%)
+	Playback length: 1m:00.297s
+	Average bitrate: 15.7 kb/s, w/o overhead: 15.18 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Telegram/Audio/30secondi/Inviato_da_WP/audio_2017-05-06_21-47-52.ogg"...
+
+New logical stream (#1, serial: 00005af1): type opus
+Encoded with libopus unknown-fixed
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 72783 bytes (overhead: 20.5%)
+	Playback length: 0m:30.113s
+	Average bitrate: 19.34 kb/s, w/o overhead: 15.38 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Telegram/Audio/30secondi/Inviato_da_Android/audio_2017-05-07_17-54-03.ogg"...
+
+New logical stream (#1, serial: 4bc4b37a): type opus
+Encoded with libopus unknown-fixed
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 74235 bytes (overhead: 20.6%)
+	Playback length: 0m:30.871s
+	Average bitrate: 19.24 kb/s, w/o overhead: 15.28 kb/s
+Logical stream 1 ended
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Telegram/Audio/5secondi/Inviato_da_WP/audio_2017-05-06_21-48-04.ogg"...
+
+New logical stream (#1, serial: 000026e9): type opus
+Encoded with libopus unknown-fixed
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 14882 bytes (overhead: 23.7%)
+	Playback length: 0m:05.753s
+	Average bitrate: 20.69 kb/s, w/o overhead: 15.79 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Telegram/Audio/5secondi/Inviato_da_Android/audio_2017-05-07_17-53-47.ogg"...
+
+New logical stream (#1, serial: 7784e778): type opus
+Encoded with libopus unknown-fixed
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 14067 bytes (overhead: 24.7%)
+	Playback length: 0m:05.587s
+	Average bitrate: 20.14 kb/s, w/o overhead: 15.17 kb/s
+Logical stream 1 ended
+WARNING: illegally placed page(s) for logical stream 1
+This indicates a corrupt Ogg file: Page found for stream after EOS flag.
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Telegram/Audio/1minuto/Inviato_da_WP/audio_2017-05-06_21-47-33.ogg"...
+
+New logical stream (#1, serial: 00005f90): type opus
+Encoded with libopus unknown-fixed
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 127784 bytes (overhead: 20.1%)
+	Playback length: 0m:53.273s
+	Average bitrate: 19.19 kb/s, w/o overhead: 15.33 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Telegram/Audio/1minuto/Inviato_da_Android/audio_2017-05-07_17-54-15.ogg"...
+
+New logical stream (#1, serial: 6c61c851): type opus
+Encoded with libopus unknown-fixed
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 145067 bytes (overhead: 20.1%)
+	Playback length: 1m:00.575s
+	Average bitrate: 19.16 kb/s, w/o overhead: 15.31 kb/s
+Logical stream 1 ended
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Telegram/AudioSilenzioso/30secondi/Inviato_da_WP/audio_2017-05-06_21-47-04.ogg"...
+
+New logical stream (#1, serial: 00004823): type opus
+Encoded with libopus unknown-fixed
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 59861 bytes (overhead: 24.9%)
+	Playback length: 0m:30.113s
+	Average bitrate: 15.9 kb/s, w/o overhead: 11.95 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Telegram/AudioSilenzioso/30secondi/Inviato_da_Android/audio_2017-05-07_17-53-18.ogg"...
+
+New logical stream (#1, serial: 7840e2c8): type opus
+Encoded with libopus unknown-fixed
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 63668 bytes (overhead: 23.7%)
+	Playback length: 0m:30.547s
+	Average bitrate: 16.67 kb/s, w/o overhead: 12.71 kb/s
+Logical stream 1 ended
+WARNING: illegally placed page(s) for logical stream 1
+This indicates a corrupt Ogg file: Page found for stream after EOS flag.
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Telegram/AudioSilenzioso/5secondi/Inviato_da_WP/audio_2017-05-06_21-46-15.ogg"...
+
+New logical stream (#1, serial: 00000029): type opus
+Encoded with libopus unknown-fixed
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 10449 bytes (overhead: 30%)
+	Playback length: 0m:04.913s
+	Average bitrate: 17.01 kb/s, w/o overhead: 11.91 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Telegram/AudioSilenzioso/5secondi/Inviato_da_Android/audio_2017-05-07_17-52-38.ogg"...
+
+New logical stream (#1, serial: 67ef2996): type opus
+Encoded with libopus unknown-fixed
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 12243 bytes (overhead: 28.4%)
+	Playback length: 0m:05.587s
+	Average bitrate: 17.53 kb/s, w/o overhead: 12.56 kb/s
+Logical stream 1 ended
+WARNING: illegally placed page(s) for logical stream 1
+This indicates a corrupt Ogg file: Page found for stream after EOS flag.
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Telegram/AudioSilenzioso/1minuto/Inviato_da_WP/audio_2017-05-06_21-47-17.ogg"...
+
+New logical stream (#1, serial: 000072ae): type opus
+Encoded with libopus unknown-fixed
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 111790 bytes (overhead: 21.7%)
+	Playback length: 0m:50.153s
+	Average bitrate: 17.83 kb/s, w/o overhead: 13.96 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Telegram/AudioSilenzioso/1minuto/Inviato_da_Android/audio_2017-05-07_17-53-31.ogg"...
+
+New logical stream (#1, serial: 0f53fbd9): type opus
+Encoded with libopus unknown-fixed
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 126191 bytes (overhead: 23%)
+	Playback length: 1m:00.363s
+	Average bitrate: 16.72 kb/s, w/o overhead: 12.88 kb/s
+Logical stream 1 ended
+WARNING: illegally placed page(s) for logical stream 1
+This indicates a corrupt Ogg file: Page found for stream after EOS flag.
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Whatsapp/Audio/30secondi/Inviato_da_WP/PTT-20170501-WA0011.opus.waptt"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   2000.0ms (max), 1790.6ms (avg),  340.0ms (min)
+	Total data length: 68707 bytes (overhead: 3.03%)
+	Playback length: 0m:30.437s
+	Average bitrate: 18.06 kb/s, w/o overhead: 17.51 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Whatsapp/Audio/30secondi/Inviato_da_Android/PTT-20170501-WA0004.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1860.0ms (max), 1693.3ms (avg),  320.0ms (min)
+	Total data length: 72807 bytes (overhead: 2.9%)
+	Playback length: 0m:30.477s
+	Average bitrate: 19.11 kb/s, w/o overhead: 18.56 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Whatsapp/Audio/5secondi/Inviato_da_WP/PTT-20170501-WA0012.opus.waptt"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1860.0ms (max), 1840.0ms (avg), 1800.0ms (min)
+	Total data length: 12700 bytes (overhead: 3.59%)
+	Playback length: 0m:05.517s
+	Average bitrate: 18.41 kb/s, w/o overhead: 17.75 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Whatsapp/Audio/5secondi/Inviato_da_Android/PTT-20170501-WA0005.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1760.0ms (max), 1400.0ms (avg),  360.0ms (min)
+	Total data length: 13671 bytes (overhead: 3.56%)
+	Playback length: 0m:05.597s
+	Average bitrate: 19.54 kb/s, w/o overhead: 18.84 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Whatsapp/Audio/1minuto/Inviato_da_WP/PTT-20170501-WA0010.opus.waptt"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   2060.0ms (max), 1787.1ms (avg),  980.0ms (min)
+	Total data length: 142288 bytes (overhead: 2.85%)
+	Playback length: 1m:00.757s
+	Average bitrate: 18.74 kb/s, w/o overhead: 18.2 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Whatsapp/Audio/1minuto/Inviato_da_Android/PTT-20170501-WA0003.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1820.0ms (max), 1730.3ms (avg),  740.0ms (min)
+	Total data length: 145791 bytes (overhead: 2.79%)
+	Playback length: 1m:00.557s
+	Average bitrate: 19.26 kb/s, w/o overhead: 18.72 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Whatsapp/AudioSilenzioso/30secondi/Inviato_da_WP/PTT-20170501-WA0008.opus.waptt"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   2580.0ms (max), 2352.3ms (avg), 1160.0ms (min)
+	Total data length: 53298 bytes (overhead: 3.71%)
+	Playback length: 0m:30.577s
+	Average bitrate: 13.94 kb/s, w/o overhead: 13.43 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Whatsapp/AudioSilenzioso/30secondi/Inviato_da_Android/PTT-20170501-WA0002.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1940.0ms (max), 1795.3ms (avg),  400.0ms (min)
+	Total data length: 68790 bytes (overhead: 3.03%)
+	Playback length: 0m:30.517s
+	Average bitrate: 18.03 kb/s, w/o overhead: 17.49 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Whatsapp/AudioSilenzioso/5secondi/Inviato_da_WP/PTT-20170501-WA0009.opus.waptt"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   2460.0ms (max), 1840.0ms (avg),  620.0ms (min)
+	Total data length: 9684 bytes (overhead: 4.71%)
+	Playback length: 0m:05.517s
+	Average bitrate: 14.04 kb/s, w/o overhead: 13.38 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Whatsapp/AudioSilenzioso/5secondi/Inviato_da_Android/PTT-20170501-WA0000.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1940.0ms (max), 1873.3ms (avg), 1800.0ms (min)
+	Total data length: 12556 bytes (overhead: 3.67%)
+	Playback length: 0m:05.617s
+	Average bitrate: 17.88 kb/s, w/o overhead: 17.22 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Whatsapp/AudioSilenzioso/1minuto/Inviato_da_WP/PTT-20170501-WA0007.opus.waptt"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   2540.0ms (max), 2423.2ms (avg), 1180.0ms (min)
+	Total data length: 104500 bytes (overhead: 3.64%)
+	Playback length: 1m:00.577s
+	Average bitrate: 13.8 kb/s, w/o overhead: 13.3 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/WIFI/Whatsapp/AudioSilenzioso/1minuto/Inviato_da_Android/PTT-20170501-WA0001.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   2000.0ms (max), 1843.0ms (avg), 1020.0ms (min)
+	Total data length: 138344 bytes (overhead: 2.91%)
+	Playback length: 1m:00.817s
+	Average bitrate: 18.2 kb/s, w/o overhead: 17.67 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Telegram/Audio/30secondi/Inviato_da_WP/audio_2017-05-06_21-49-27.ogg"...
+
+New logical stream (#1, serial: 0000390c): type opus
+Encoded with libopus unknown-fixed
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 72687 bytes (overhead: 20.4%)
+	Playback length: 0m:29.993s
+	Average bitrate: 19.39 kb/s, w/o overhead: 15.43 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Telegram/Audio/30secondi/Inviato_da_Android/audio_2017-05-07_17-55-37.ogg"...
+
+New logical stream (#1, serial: 13856be2): type opus
+Encoded with libopus unknown-fixed
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 73467 bytes (overhead: 20.6%)
+	Playback length: 0m:30.547s
+	Average bitrate: 19.24 kb/s, w/o overhead: 15.28 kb/s
+Logical stream 1 ended
+WARNING: illegally placed page(s) for logical stream 1
+This indicates a corrupt Ogg file: Page found for stream after EOS flag.
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Telegram/Audio/5secondi/Inviato_da_WP/audio_2017-05-06_21-49-58.ogg"...
+
+New logical stream (#1, serial: 00000099): type opus
+Encoded with libopus unknown-fixed
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 12934 bytes (overhead: 24.3%)
+	Playback length: 0m:04.913s
+	Average bitrate: 21.06 kb/s, w/o overhead: 15.95 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Telegram/Audio/5secondi/Inviato_da_Android/audio_2017-05-07_17-55-14.ogg"...
+
+New logical stream (#1, serial: 110c4c76): type opus
+Encoded with libopus unknown-fixed
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 13718 bytes (overhead: 24.9%)
+	Playback length: 0m:05.475s
+	Average bitrate: 20.04 kb/s, w/o overhead: 15.05 kb/s
+Logical stream 1 ended
+WARNING: illegally placed page(s) for logical stream 1
+This indicates a corrupt Ogg file: Page found for stream after EOS flag.
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Telegram/Audio/1minuto/Inviato_da_WP/audio_2017-05-06_21-50-10.ogg"...
+
+New logical stream (#1, serial: 0000305e): type opus
+Encoded with libopus unknown-fixed
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 144167 bytes (overhead: 20%)
+	Playback length: 0m:59.993s
+	Average bitrate: 19.22 kb/s, w/o overhead: 15.38 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Telegram/Audio/1minuto/Inviato_da_Android/audio_2017-05-07_17-55-49.ogg"...
+
+New logical stream (#1, serial: 61da78bc): type opus
+Encoded with libopus unknown-fixed
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 144538 bytes (overhead: 20.1%)
+	Playback length: 1m:00.363s
+	Average bitrate: 19.16 kb/s, w/o overhead: 15.31 kb/s
+Logical stream 1 ended
+WARNING: illegally placed page(s) for logical stream 1
+This indicates a corrupt Ogg file: Page found for stream after EOS flag.
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Telegram/Audio_Silenzioso/30secondi/Inviato_da_WP/audio_2017-05-06_21-49-12.ogg"...
+
+New logical stream (#1, serial: 000012db): type opus
+Encoded with libopus unknown-fixed
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 62174 bytes (overhead: 23.8%)
+	Playback length: 0m:29.873s
+	Average bitrate: 16.65 kb/s, w/o overhead: 12.69 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Telegram/Audio_Silenzioso/30secondi/Inviato_Da_Android/audio_2017-05-08_10-06-42.ogg"...
+
+New logical stream (#1, serial: 64c2cc83): type opus
+Encoded with libopus unknown-fixed
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 63584 bytes (overhead: 23.9%)
+	Playback length: 0m:30.739s
+	Average bitrate: 16.55 kb/s, w/o overhead: 12.59 kb/s
+Logical stream 1 ended
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Telegram/Audio_Silenzioso/5secondi/Inviato_da_WP/audio_2017-05-06_21-48-25.ogg"...
+
+New logical stream (#1, serial: 000001eb): type opus
+Encoded with libopus unknown-fixed
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 7017 bytes (overhead: 33.5%)
+	Playback length: 0m:03.233s
+	Average bitrate: 17.36 kb/s, w/o overhead: 11.54 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Telegram/Audio_Silenzioso/5secondi/Inviato_da_Android/audio_2017-05-08_10-06-21.ogg"...
+
+New logical stream (#1, serial: 05df85b0): type opus
+Encoded with libopus unknown-fixed
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 12500 bytes (overhead: 27.8%)
+	Playback length: 0m:05.587s
+	Average bitrate: 17.9 kb/s, w/o overhead: 12.92 kb/s
+Logical stream 1 ended
+WARNING: illegally placed page(s) for logical stream 1
+This indicates a corrupt Ogg file: Page found for stream after EOS flag.
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Telegram/Audio_Silenzioso/1minuto/Inviato_da_WP/audio_2017-05-06_21-49-00.ogg"...
+
+New logical stream (#1, serial: 00002ea6): type opus
+Encoded with libopus unknown-fixed
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 98336 bytes (overhead: 24.7%)
+	Playback length: 0m:50.153s
+	Average bitrate: 15.69 kb/s, w/o overhead: 11.82 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Telegram/Audio_Silenzioso/1minuto/Inviato_da_Android/audio_2017-05-08_10-07-02.ogg"...
+
+New logical stream (#1, serial: 272cbc2e): type opus
+Encoded with libopus unknown-fixed
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 128200 bytes (overhead: 22.7%)
+	Playback length: 1m:00.575s
+	Average bitrate: 16.93 kb/s, w/o overhead: 13.08 kb/s
+Logical stream 1 ended
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Whatsapp/Audio/30secondi/Inviato_da_WP/PTT-20170504-WA0018.opus.waptt"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1820.0ms (max), 1690.0ms (avg),  400.0ms (min)
+	Total data length: 73158 bytes (overhead: 2.88%)
+	Playback length: 0m:30.417s
+	Average bitrate: 19.24 kb/s, w/o overhead: 18.69 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Whatsapp/Audio/30secondi/Inviato_da_Android/PTT-20170504-WA0009.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1840.0ms (max), 1683.3ms (avg),  240.0ms (min)
+	Total data length: 72746 bytes (overhead: 2.89%)
+	Playback length: 0m:30.297s
+	Average bitrate: 19.21 kb/s, w/o overhead: 18.65 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Whatsapp/Audio/5Secondi/Inviato_da_WP/PTT-20170504-WA0019.opus.waptt"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1820.0ms (max), 1766.7ms (avg), 1740.0ms (min)
+	Total data length: 12786 bytes (overhead: 3.48%)
+	Playback length: 0m:05.297s
+	Average bitrate: 19.31 kb/s, w/o overhead: 18.64 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Whatsapp/Audio/5Secondi/Inviato_da_Android/PTT-20170504-WA0010.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1840.0ms (max), 1375.0ms (avg),  100.0ms (min)
+	Total data length: 13096 bytes (overhead: 3.68%)
+	Playback length: 0m:05.497s
+	Average bitrate: 19.06 kb/s, w/o overhead: 18.35 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Whatsapp/Audio/1minuto/Inviato_da_WP/PTT-20170504-WA0017.opus.waptt"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1820.0ms (max), 1725.7ms (avg),  420.0ms (min)
+	Total data length: 145267 bytes (overhead: 2.8%)
+	Playback length: 1m:00.397s
+	Average bitrate: 19.24 kb/s, w/o overhead: 18.7 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Whatsapp/Audio/1minuto/Inviato_da_Android/PTT-20170504-WA0008.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   1840.0ms (max), 1724.6ms (avg),  420.0ms (min)
+	Total data length: 145217 bytes (overhead: 2.8%)
+	Playback length: 1m:00.357s
+	Average bitrate: 19.25 kb/s, w/o overhead: 18.71 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Whatsapp/AudioSilenzioso/30secondi/Inviato_da_WP/PTT-20170504-WA0008.opus.waptt"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   2820.0ms (max), 2533.3ms (avg),  520.0ms (min)
+	Total data length: 47985 bytes (overhead: 4.05%)
+	Playback length: 0m:30.397s
+	Average bitrate: 12.63 kb/s, w/o overhead: 12.12 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Whatsapp/AudioSilenzioso/30secondi/Inviato_Da_Android/PTT-20170504-WA0006.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   2220.0ms (max), 2026.7ms (avg),  180.0ms (min)
+	Total data length: 59991 bytes (overhead: 3.37%)
+	Playback length: 0m:30.397s
+	Average bitrate: 15.79 kb/s, w/o overhead: 15.26 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Whatsapp/AudioSilenzioso/5secondi/Inviato_da_WP/PTT-20170504-WA0007.opus.waptt"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   2840.0ms (max), 1860.0ms (avg),   60.0ms (min)
+	Total data length: 8770 bytes (overhead: 5.23%)
+	Playback length: 0m:05.577s
+	Average bitrate: 12.58 kb/s, w/o overhead: 11.92 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Whatsapp/AudioSilenzioso/5secondi/Inviato_da_Android/PTT-20170504-WA0005.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   2280.0ms (max), 1766.7ms (avg),  860.0ms (min)
+	Total data length: 10314 bytes (overhead: 4.31%)
+	Playback length: 0m:05.297s
+	Average bitrate: 15.57 kb/s, w/o overhead: 14.9 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Whatsapp/AudioSilenzioso/1minuto/Inviato_da_WP/PTT-20170504-WA0009.opus.waptt"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   2800.0ms (max), 2627.0ms (avg), 1060.0ms (min)
+	Total data length: 95736 bytes (overhead: 3.91%)
+	Playback length: 1m:00.417s
+	Average bitrate: 12.68 kb/s, w/o overhead: 12.18 kb/s
+Processing file "/home/vale/Scrivania/audio/Lunghezza_variabile/3G/Whatsapp/AudioSilenzioso/1minuto/Inviato_da_Android/PTT-20170504-WA0007.opus"...
+
+Note: Stream 1 has serial number 0, which is legal but may cause problems with some tools.
+New logical stream (#1, serial: 00000000): type opus
+WARNING: Implausibly low preskip in Opus stream (1)
+Encoded with WhatsApp
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 104
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   20.0ms (max),   20.0ms (avg),   20.0ms (min)
+	Page duration:   2260.0ms (max), 2158.6ms (avg), 1840.0ms (min)
+	Total data length: 118680 bytes (overhead: 3.27%)
+	Playback length: 1m:00.437s
+	Average bitrate: 15.71 kb/s, w/o overhead: 15.2 kb/s
+Processing file "/home/vale/Scrivania/audio/Invio_su_Telegram_da_WP/audio_2017-04-02_21-59-34.ogg"...
+
+New logical stream (#1, serial: 00000029): type opus
+Encoded with libopus unknown-fixed
+WARNING: EOS not set on stream 1 (normal for live streams)
+Opus stream 1:
+	Pre-skip: 312
+	Playback gain: 0 dB
+	Channels: 1
+	Original sample rate: 16000Hz
+	Packet duration:   60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Page duration:     60.0ms (max),   60.0ms (avg),   60.0ms (min)
+	Total data length: 8253 bytes (overhead: 30.5%)
+	Playback length: 0m:03.593s
+	Average bitrate: 18.37 kb/s, w/o overhead: 12.76 kb/s
